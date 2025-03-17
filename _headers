@@ -1,0 +1,6 @@
+/max-age/*.js
+  Content-Type: application/javascript; charset=utf-8
+  Cache-Control: max-age=60
+/public-max-age/*.js
+  Content-Type: application/javascript; charset=utf-8
+  Cache-Control: public, max-age=120
